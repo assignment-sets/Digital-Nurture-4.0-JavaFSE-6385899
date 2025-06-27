@@ -2,3 +2,4 @@ todo.txt
 **/*.class
 scripts/*
 tempCodeRunnerFile.*
+target/*
