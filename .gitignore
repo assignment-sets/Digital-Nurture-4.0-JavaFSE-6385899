@@ -3,3 +3,4 @@ todo.txt
 scripts/*
 tempCodeRunnerFile.*
 target/*
+/node_modules
